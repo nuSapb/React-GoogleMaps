@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/nuSapb/React-GoogleMaps/precache-manifest.2de0a07694994cb8721dd4b88bbb851e.js"
+  "/React-GoogleMaps/precache-manifest.bd41c313e1e8a0902a7addf1f5f541b0.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/nuSapb/React-GoogleMaps/index.html", {
+workbox.routing.registerNavigationRoute("/React-GoogleMaps/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
