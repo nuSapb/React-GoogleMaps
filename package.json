@@ -2,7 +2,7 @@
   "name": "my-googlemap",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.io/nuSapb/React-GoogleMaps/",
+  "homepage": "https://nusapb.github.io/React-GoogleMaps/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "google-maps-react": "^2.0.2",
